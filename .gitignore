@@ -1,0 +1,20 @@
+# Large or full-size data files — keep these private/local
+raw_market_data_with_errors.csv
+clean_market_data_ready_for_research.csv
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# Environment
+.env
+
+# OS files
+.DS_Store
+Thumbs.db

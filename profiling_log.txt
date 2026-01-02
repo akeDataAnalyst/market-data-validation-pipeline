@@ -1,0 +1,9 @@
+
+Initial Profiling Report - 2025-12-31 12:29
+Dataset: raw_market_data_with_errors.csv
+Rows: 20,200
+Missing prices: 608
+Duplicates: 200
+Negative prices: 20
+Zero volumes: 43
+Large timestamp gaps: 5

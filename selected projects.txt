@@ -1,0 +1,25 @@
+High-Frequency Market Data Validation & Cleaning Pipeline | Python, Pandas, NumPy, Streamlit
+Developed an automated pipeline for validating and cleaning noisy high-frequency market tick data, producing research-ready datasets for quantitative trading.
+• Performed in-depth profiling and anomaly detection on large-scale datasets (1M+ rows) using Pandas and NumPy, identifying outliers, missing values, duplicates, and timestamp gaps; reduced simulated error rates by 95% through robust cleaning (interpolation, deduplication, edge-case handling).
+• Built modular, production-quality code with comprehensive audit logging, unit tests, and detailed issue reporting to ensure traceability and high accuracy in data workflows.
+• Created an interactive Streamlit web application for ad-hoc data upload, real-time profiling, customizable validation thresholds, before/after visualizations, and cleaned dataset export—enabling efficient exploratory support for quantitative researchers.
+• https://github.com/[your-username]/market-data-validation-pipeline
+
+
+
+Professional Summary
+
+Python-focused Analyst with proven expertise in data quality assurance, validation, and tool development for quantitative research environments. 
+Skilled in transforming noisy, unstructured datasets into clean, research-ready formats using Pandas and NumPy, while building intuitive, production-grade internal utilities that accelerate exploratory analysis and system monitoring. 
+Demonstrated ability to profile large-scale datasets, detect anomalies, automate preprocessing workflows, and deliver interactive self-service tools that directly support quantitative researchers and engineers. 
+Committed to writing clean, modular, and well-documented code with strong emphasis on accuracy, traceability, and attention to detail. Eager to contribute to a high-performing quant team in a structured, intellectually engaging role.
+
+Core Skills
+
+Programming & Tools: Python (advanced), Pandas, NumPy, Streamlit, Plotly, yfinance, Statsmodels  
+Data Handling: Data ingestion, profiling, validation, cleaning, anomaly detection, ETL-style transformations  
+Analysis & Automation: Exploratory data analysis, statistical computations, log parsing, metric calculation, automation scripting  
+Tool Development: Building internal utilities, interactive dashboards, self-service research tools, audit logging, unit testing  
+Domain Knowledge: Quantitative research workflows, market data quality (tick-level, time-series), trading system monitoring, backtesting support  
+Soft Skills: High attention to detail, problem-solving in complex systems, collaboration with researchers and engineers, code quality and readability
+
